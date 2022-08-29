@@ -1,0 +1,18 @@
+What is Node.js?
+  => Is a server side javascript runtime 
+  => Not a Programming Language
+
+  => Has Own Library For Manage Node.js
+  => NPM --> Node Package Manager  .. Third Party Library Management
+
+*** V8 engine --> Dom -> Document object model
+
+**Tomcat server
+
+**Node.js -> single thread , Non-blocking  
+
+    * CPU Intensive Work -> X
+    * I/O Intensive work --> node.js
+
+** Modern website -> use multiple server for Non-blocking work .... 
+
